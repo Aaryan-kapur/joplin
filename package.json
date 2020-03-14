@@ -42,5 +42,8 @@
     "husky": "^3.0.2",
     "lint-staged": "^9.2.1",
     "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "react-native-share-extension": "^2.0.0"
   }
 }
