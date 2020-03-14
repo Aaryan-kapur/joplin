@@ -11,50 +11,6 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		19447E56241D2AD600189C55 /* libReactNativeShareExtension.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E55241D2A9600189C55 /* libReactNativeShareExtension.a */; };
-		19447E5A241D313D00189C55 /* libReactNativeShareExtension.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E59241D313D00189C55 /* libReactNativeShareExtension.a */; };
-		19447E89241D373E00189C55 /* libDoubleConversion.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E61241D373E00189C55 /* libDoubleConversion.a */; };
-		19447E8A241D373E00189C55 /* libFBReactNativeSpec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E62241D373E00189C55 /* libFBReactNativeSpec.a */; };
-		19447E8B241D373E00189C55 /* libFolly.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E63241D373E00189C55 /* libFolly.a */; };
-		19447E8C241D373E00189C55 /* libglog.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E64241D373E00189C55 /* libglog.a */; };
-		19447E8E241D373E00189C55 /* libRCTTypeSafety.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E66241D373E00189C55 /* libRCTTypeSafety.a */; };
-		19447E8F241D373E00189C55 /* libReact-Core.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E67241D373E00189C55 /* libReact-Core.a */; };
-		19447E90241D373E00189C55 /* libReact-CoreModules.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E68241D373E00189C55 /* libReact-CoreModules.a */; };
-		19447E91241D373E00189C55 /* libReact-cxxreact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E69241D373E00189C55 /* libReact-cxxreact.a */; };
-		19447E92241D373E00189C55 /* libReact-jsi.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E6A241D373E00189C55 /* libReact-jsi.a */; };
-		19447E93241D373E00189C55 /* libReact-jsiexecutor.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E6B241D373E00189C55 /* libReact-jsiexecutor.a */; };
-		19447E94241D373F00189C55 /* libReact-jsinspector.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E6C241D373E00189C55 /* libReact-jsinspector.a */; };
-		19447E95241D373F00189C55 /* libreact-native-camera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E6D241D373E00189C55 /* libreact-native-camera.a */; };
-		19447E96241D373F00189C55 /* libreact-native-document-picker.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E6E241D373E00189C55 /* libreact-native-document-picker.a */; };
-		19447E97241D373F00189C55 /* libreact-native-image-picker.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E6F241D373E00189C55 /* libreact-native-image-picker.a */; };
-		19447E98241D373F00189C55 /* libreact-native-image-resizer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E70241D373E00189C55 /* libreact-native-image-resizer.a */; };
-		19447E99241D373F00189C55 /* libreact-native-slider.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E71241D373E00189C55 /* libreact-native-slider.a */; };
-		19447E9A241D373F00189C55 /* libreact-native-sqlite-storage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E72241D373E00189C55 /* libreact-native-sqlite-storage.a */; };
-		19447E9B241D373F00189C55 /* libreact-native-version-info.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E73241D373E00189C55 /* libreact-native-version-info.a */; };
-		19447E9C241D373F00189C55 /* libreact-native-webview.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E74241D373E00189C55 /* libreact-native-webview.a */; };
-		19447E9D241D373F00189C55 /* libReact-RCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E75241D373E00189C55 /* libReact-RCTActionSheet.a */; };
-		19447E9E241D373F00189C55 /* libReact-RCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E76241D373E00189C55 /* libReact-RCTAnimation.a */; };
-		19447E9F241D373F00189C55 /* libReact-RCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E77241D373E00189C55 /* libReact-RCTBlob.a */; };
-		19447EA0241D373F00189C55 /* libReact-RCTImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E78241D373E00189C55 /* libReact-RCTImage.a */; };
-		19447EA1241D373F00189C55 /* libReact-RCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E79241D373E00189C55 /* libReact-RCTLinking.a */; };
-		19447EA2241D373F00189C55 /* libReact-RCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E7A241D373E00189C55 /* libReact-RCTNetwork.a */; };
-		19447EA3241D373F00189C55 /* libReact-RCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E7B241D373E00189C55 /* libReact-RCTSettings.a */; };
-		19447EA4241D373F00189C55 /* libReact-RCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E7C241D373E00189C55 /* libReact-RCTText.a */; };
-		19447EA5241D373F00189C55 /* libReact-RCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E7D241D373E00189C55 /* libReact-RCTVibration.a */; };
-		19447EA6241D373F00189C55 /* libReactCommon.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E7E241D373E00189C55 /* libReactCommon.a */; };
-		19447EA7241D373F00189C55 /* libReactNativeShareExtension.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E7F241D373E00189C55 /* libReactNativeShareExtension.a */; };
-		19447EA8241D373F00189C55 /* librn-fetch-blob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E80241D373E00189C55 /* librn-fetch-blob.a */; };
-		19447EA9241D373F00189C55 /* libRNCPushNotificationIOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E81241D373E00189C55 /* libRNCPushNotificationIOS.a */; };
-		19447EAA241D373F00189C55 /* libRNDeviceInfo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E82241D373E00189C55 /* libRNDeviceInfo.a */; };
-		19447EAB241D373F00189C55 /* libRNFileViewer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E83241D373E00189C55 /* libRNFileViewer.a */; };
-		19447EAC241D373F00189C55 /* libRNFS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E84241D373E00189C55 /* libRNFS.a */; };
-		19447EAD241D373F00189C55 /* libRNQuickAction.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E85241D373E00189C55 /* libRNQuickAction.a */; };
-		19447EAE241D373F00189C55 /* libRNSecureRandom.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E86241D373E00189C55 /* libRNSecureRandom.a */; };
-		19447EAF241D373F00189C55 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E87241D373E00189C55 /* libRNVectorIcons.a */; };
-		19447EB0241D373F00189C55 /* libYoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19447E88241D373E00189C55 /* libYoga.a */; };
-		19E5323F241D1A9000677AEA /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19E5323D241D1A9000677AEA /* MainInterface.storyboard */; };
-		19E53243241D1A9000677AEA /* Sharing.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 19E53238241D1A8F00677AEA /* Sharing.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		19E53249241D1AD600677AEA /* Sharing.m in Sources */ = {isa = PBXBuildFile; fileRef = 19E53248241D1AD600677AEA /* Sharing.m */; };
 		AE6BB3A2FDA34D01864A721A /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 381C047F2739439CB3E6452A /* libRNVectorIcons.a */; };
 		D61D79EFCD46D6A91C7AC037 /* libPods-Joplin.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 213214F8C971D6F5A5907266 /* libPods-Joplin.a */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
@@ -63,23 +19,6 @@
 		FBF57CE2F0F448FA9A8985E2 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EB8BCAEA9AA41CAAE460443 /* libsqlite3.0.tbd */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		19447E54241D2A9600189C55 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 19447E50241D2A9600189C55 /* ReactNativeShareExtension.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 41B5DE301D0B505800949BD5;
-			remoteInfo = ReactNativeShareExtension;
-		};
-		19E53241241D1A9000677AEA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 19E53237241D1A8F00677AEA;
-			remoteInfo = Sharing;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		19E53247241D1A9000677AEA /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -87,7 +26,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				19E53243241D1A9000677AEA /* Sharing.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -181,9 +119,7 @@
 		19447E1F241D223700189C55 /* libRNSecureRandom.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libRNSecureRandom.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19447E20241D223700189C55 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19447E21241D223700189C55 /* libYoga.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libYoga.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		19447E50241D2A9600189C55 /* ReactNativeShareExtension.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeShareExtension.xcodeproj; path = "../node_modules/react-native-share-extension/ios/ReactNativeShareExtension.xcodeproj"; sourceTree = "<group>"; };
 		19447E59241D313D00189C55 /* libReactNativeShareExtension.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReactNativeShareExtension.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		19447E60241D327700189C55 /* ReactNativeShareExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ReactNativeShareExtension.h; path = "../node_modules/react-native-share-extension/ios/ReactNativeShareExtension.h"; sourceTree = "<group>"; };
 		19447E61241D373E00189C55 /* libDoubleConversion.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libDoubleConversion.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19447E62241D373E00189C55 /* libFBReactNativeSpec.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBReactNativeSpec.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19447E63241D373E00189C55 /* libFolly.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFolly.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -223,10 +159,6 @@
 		19447E86241D373E00189C55 /* libRNSecureRandom.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libRNSecureRandom.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19447E87241D373E00189C55 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19447E88241D373E00189C55 /* libYoga.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libYoga.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		19E53238241D1A8F00677AEA /* Sharing.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Sharing.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		19E5323E241D1A9000677AEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
-		19E53240241D1A9000677AEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		19E53248241D1AD600677AEA /* Sharing.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sharing.m; sourceTree = "<group>"; };
 		19E5324A241D1BFB00677AEA /* libDoubleConversion.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libDoubleConversion.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19E5324B241D1BFB00677AEA /* libFBReactNativeSpec.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBReactNativeSpec.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19E5324C241D1BFB00677AEA /* libFolly.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFolly.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -326,54 +258,6 @@
 				AE6BB3A2FDA34D01864A721A /* libRNVectorIcons.a in Frameworks */,
 				F3D0BB525E6C490294D73075 /* libRNSecureRandom.a in Frameworks */,
 				D61D79EFCD46D6A91C7AC037 /* libPods-Joplin.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		19E53235241D1A8F00677AEA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				19447E94241D373F00189C55 /* libReact-jsinspector.a in Frameworks */,
-				19447EA0241D373F00189C55 /* libReact-RCTImage.a in Frameworks */,
-				19447E5A241D313D00189C55 /* libReactNativeShareExtension.a in Frameworks */,
-				19447E8B241D373E00189C55 /* libFolly.a in Frameworks */,
-				19447EAF241D373F00189C55 /* libRNVectorIcons.a in Frameworks */,
-				19447EAC241D373F00189C55 /* libRNFS.a in Frameworks */,
-				19447E96241D373F00189C55 /* libreact-native-document-picker.a in Frameworks */,
-				19447EAD241D373F00189C55 /* libRNQuickAction.a in Frameworks */,
-				19447E9D241D373F00189C55 /* libReact-RCTActionSheet.a in Frameworks */,
-				19447E8C241D373E00189C55 /* libglog.a in Frameworks */,
-				19447EA5241D373F00189C55 /* libReact-RCTVibration.a in Frameworks */,
-				19447EA3241D373F00189C55 /* libReact-RCTSettings.a in Frameworks */,
-				19447E9F241D373F00189C55 /* libReact-RCTBlob.a in Frameworks */,
-				19447E8A241D373E00189C55 /* libFBReactNativeSpec.a in Frameworks */,
-				19447EA4241D373F00189C55 /* libReact-RCTText.a in Frameworks */,
-				19447E9B241D373F00189C55 /* libreact-native-version-info.a in Frameworks */,
-				19447E91241D373E00189C55 /* libReact-cxxreact.a in Frameworks */,
-				19447EA6241D373F00189C55 /* libReactCommon.a in Frameworks */,
-				19447EAB241D373F00189C55 /* libRNFileViewer.a in Frameworks */,
-				19447E93241D373E00189C55 /* libReact-jsiexecutor.a in Frameworks */,
-				19447EA7241D373F00189C55 /* libReactNativeShareExtension.a in Frameworks */,
-				19447E56241D2AD600189C55 /* libReactNativeShareExtension.a in Frameworks */,
-				19447EAA241D373F00189C55 /* libRNDeviceInfo.a in Frameworks */,
-				19447E89241D373E00189C55 /* libDoubleConversion.a in Frameworks */,
-				19447E9C241D373F00189C55 /* libreact-native-webview.a in Frameworks */,
-				19447E8E241D373E00189C55 /* libRCTTypeSafety.a in Frameworks */,
-				19447E97241D373F00189C55 /* libreact-native-image-picker.a in Frameworks */,
-				19447E98241D373F00189C55 /* libreact-native-image-resizer.a in Frameworks */,
-				19447EA9241D373F00189C55 /* libRNCPushNotificationIOS.a in Frameworks */,
-				19447EA1241D373F00189C55 /* libReact-RCTLinking.a in Frameworks */,
-				19447E95241D373F00189C55 /* libreact-native-camera.a in Frameworks */,
-				19447E9E241D373F00189C55 /* libReact-RCTAnimation.a in Frameworks */,
-				19447E90241D373E00189C55 /* libReact-CoreModules.a in Frameworks */,
-				19447EAE241D373F00189C55 /* libRNSecureRandom.a in Frameworks */,
-				19447E9A241D373F00189C55 /* libreact-native-sqlite-storage.a in Frameworks */,
-				19447E92241D373E00189C55 /* libReact-jsi.a in Frameworks */,
-				19447E8F241D373E00189C55 /* libReact-Core.a in Frameworks */,
-				19447EA2241D373F00189C55 /* libReact-RCTNetwork.a in Frameworks */,
-				19447E99241D373F00189C55 /* libreact-native-slider.a in Frameworks */,
-				19447EA8241D373F00189C55 /* librn-fetch-blob.a in Frameworks */,
-				19447EB0241D373F00189C55 /* libYoga.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -600,24 +484,6 @@
 			name = Joplin;
 			sourceTree = "<group>";
 		};
-		19447E51241D2A9600189C55 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				19447E55241D2A9600189C55 /* libReactNativeShareExtension.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		19E53239241D1A9000677AEA /* Sharing */ = {
-			isa = PBXGroup;
-			children = (
-				19E5323D241D1A9000677AEA /* MainInterface.storyboard */,
-				19E53240241D1A9000677AEA /* Info.plist */,
-				19E53248241D1AD600677AEA /* Sharing.m */,
-			);
-			path = Sharing;
-			sourceTree = "<group>";
-		};
 		4D2A85911FBCE3950028537D /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
@@ -647,8 +513,6 @@
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
-				19447E60241D327700189C55 /* ReactNativeShareExtension.h */,
-				19447E50241D2A9600189C55 /* ReactNativeShareExtension.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -658,7 +522,6 @@
 			children = (
 				13B07FAE1A68108700A75B9A /* Joplin */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				19E53239241D1A9000677AEA /* Sharing */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				04FA5E9085024E3A9DAF0E03 /* Frameworks */,
 				7FDFE2A137C24ED08645158D /* Resources */,
@@ -674,7 +537,6 @@
 			isa = PBXGroup;
 			children = (
 				13B07F961A680F5B00A75B9A /* Joplin.app */,
-				19E53238241D1A8F00677AEA /* Sharing.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -697,29 +559,11 @@
 			buildRules = (
 			);
 			dependencies = (
-				19E53242241D1A9000677AEA /* PBXTargetDependency */,
 			);
 			name = Joplin;
 			productName = "Hello World";
 			productReference = 13B07F961A680F5B00A75B9A /* Joplin.app */;
 			productType = "com.apple.product-type.application";
-		};
-		19E53237241D1A8F00677AEA /* Sharing */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 19E53244241D1A9000677AEA /* Build configuration list for PBXNativeTarget "Sharing" */;
-			buildPhases = (
-				19E53234241D1A8F00677AEA /* Sources */,
-				19E53235241D1A8F00677AEA /* Frameworks */,
-				19E53236241D1A8F00677AEA /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = Sharing;
-			productName = Sharing;
-			productReference = 19E53238241D1A8F00677AEA /* Sharing.appex */;
-			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -742,11 +586,6 @@
 							};
 						};
 					};
-					19E53237241D1A8F00677AEA = {
-						CreatedOnToolsVersion = 11.2.1;
-						DevelopmentTeam = A9BXAFS6CT;
-						ProvisioningStyle = Automatic;
-					};
 				};
 			};
 			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Joplin" */;
@@ -761,29 +600,12 @@
 			mainGroup = 83CBB9F61A601CBA00E9B192;
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 19447E51241D2A9600189C55 /* Products */;
-					ProjectRef = 19447E50241D2A9600189C55 /* ReactNativeShareExtension.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				13B07F861A680F5B00A75B9A /* Joplin */,
-				19E53237241D1A8F00677AEA /* Sharing */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		19447E55241D2A9600189C55 /* libReactNativeShareExtension.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libReactNativeShareExtension.a;
-			remoteRef = 19447E54241D2A9600189C55 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		13B07F8E1A680F5B00A75B9A /* Resources */ = {
@@ -792,14 +614,6 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		19E53236241D1A8F00677AEA /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				19E5323F241D1A9000677AEA /* MainInterface.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -902,23 +716,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		19E53234241D1A8F00677AEA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				19E53249241D1AD600677AEA /* Sharing.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		19E53242241D1A9000677AEA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 19E53237241D1A8F00677AEA /* Sharing */;
-			targetProxy = 19E53241241D1A9000677AEA /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		13B07FB11A68108700A75B9A /* LaunchScreen.xib */ = {
@@ -928,14 +726,6 @@
 			);
 			name = LaunchScreen.xib;
 			path = Joplin;
-			sourceTree = "<group>";
-		};
-		19E5323D241D1A9000677AEA /* MainInterface.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				19E5323E241D1A9000677AEA /* Base */,
-			);
-			name = MainInterface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -1017,89 +807,6 @@
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
-			};
-			name = Release;
-		};
-		19E53245241D1A9000677AEA /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CODE_SIGN_STYLE = Automatic;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = A9BXAFS6CT;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = "/Volumes/Work/joplin/joplin/ReactNativeClient/**";
-				INFOPLIST_FILE = Sharing/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				OTHER_LDFLAGS = (
-					"-0bjC",
-					"-Ic++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.cozic.joplin.Sharing;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		19E53246241D1A9000677AEA /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = A9BXAFS6CT;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = "/Volumes/Work/joplin/joplin/ReactNativeClient/**";
-				INFOPLIST_FILE = Sharing/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				MTL_FAST_MATH = YES;
-				OTHER_LDFLAGS = (
-					"-0bjC",
-					"-Ic++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.cozic.joplin.Sharing;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -1187,15 +894,6 @@
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
 				13B07F951A680F5B00A75B9A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		19E53244241D1A9000677AEA /* Build configuration list for PBXNativeTarget "Sharing" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				19E53245241D1A9000677AEA /* Debug */,
-				19E53246241D1A9000677AEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
