@@ -245,6 +245,8 @@ PODS:
     - React
   - RNDeviceInfo (5.5.1):
     - React
+  - RNFileShareIntent (1.1.2):
+    - React
   - RNFileViewer (1.0.1):
     - React
   - RNFS (2.11.17):
@@ -296,6 +298,7 @@ DEPENDENCIES:
   - rn-fetch-blob (from `../node_modules/rn-fetch-blob`)
   - "RNCPushNotificationIOS (from `../node_modules/@react-native-community/push-notification-ios`)"
   - RNDeviceInfo (from `../node_modules/react-native-device-info`)
+  - RNFileShareIntent (from `../node_modules/react-native-file-share-intent/ios`)
   - RNFileViewer (from `../node_modules/react-native-file-viewer/ios`)
   - RNFS (from `../node_modules/react-native-fs`)
   - RNQuickAction (from `../node_modules/react-native-quick-actions`)
@@ -378,6 +381,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/@react-native-community/push-notification-ios"
   RNDeviceInfo:
     :path: "../node_modules/react-native-device-info"
+  RNFileShareIntent:
+    :path: "../node_modules/react-native-file-share-intent/ios"
   RNFileViewer:
     :path: "../node_modules/react-native-file-viewer/ios"
   RNFS:
@@ -428,6 +433,7 @@ SPEC CHECKSUMS:
   rn-fetch-blob: f065bb7ab7fb48dd002629f8bdcb0336602d3cba
   RNCPushNotificationIOS: 30ed75aa2981a4ee00b8a2c46599ff18a9c7fcf6
   RNDeviceInfo: 6812ed7e578d4344bf4e77102f014b5adf0b5c28
+  RNFileShareIntent: ab2a248904f171f37a5220d2cead36528b3daa35
   RNFileViewer: 5047ecf40477339723cc08abd55b5ebcefcef4b5
   RNFS: 416676c3a9ae404454bade10e3d78147c7c33a40
   RNQuickAction: 6d404a869dc872cde841ad3147416a670d13fa93
@@ -435,6 +441,6 @@ SPEC CHECKSUMS:
   RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
-PODFILE CHECKSUM: 730cfe679871b4a0fe17af926e3be81d2e35a54f
+PODFILE CHECKSUM: 1107925d593885d940120c2c55d9239ac0ec0f98
 
 COCOAPODS: 1.9.1
